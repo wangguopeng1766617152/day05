@@ -18,7 +18,8 @@ class Base():
         # 输入内容
         el.send_keys(text)
     def hello()
-        pass    
+        pssa
+    
     “””
         需求：
             1. 打开 Ak_CRM
