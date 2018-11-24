@@ -17,8 +17,9 @@ class Base():
         el.clear()
         # 输入内容
         el.send_keys(text)
-
-    """
+    def hello()
+        pass    
+    “””
         需求：
             1. 打开 Ak_CRM
             2. 输入用户
